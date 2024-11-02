@@ -112,7 +112,7 @@ button:hover {
 
 
 .primero .btn {
-    margin-left: 740px;
+    margin-left: 600px;
 }
 
 .publicidad {
@@ -299,7 +299,7 @@ footer .legal > span {
 
 .enc-evento img {
     width: 50%;
-    height: auto;
+    height: max-content;
 }
 
 .enc-evento h1{
